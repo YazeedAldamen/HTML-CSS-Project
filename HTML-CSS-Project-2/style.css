@@ -549,11 +549,11 @@ justify-content: center;
 
 
     /*Phone*/
-
+/*
     @media only screen and (min-device-width :0px) and (max-device-width: 480px){
         
 
-        /* burger */
+        
         .toggle-button{
             display:flex;
 
@@ -587,7 +587,6 @@ justify-content: center;
             padding: 2px;
         }
 
-/* burger end */
 
 
 
@@ -737,7 +736,7 @@ justify-content: center;
 
 
 
-
+*/
 
 
 
