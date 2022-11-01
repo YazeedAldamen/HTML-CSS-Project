@@ -549,7 +549,7 @@ justify-content: center;
 
 
     /*Phone*/
-/*
+
     @media only screen and (min-device-width :0px) and (max-device-width: 480px){
         
 
@@ -619,7 +619,7 @@ justify-content: center;
             font-size: 30px;
         }
 
-        }
+       
         #peducation {
 
             font-size: 60px;
@@ -627,6 +627,7 @@ justify-content: center;
 
         #skills{
             flex-direction: row;
+            flex-wrap: wrap;
             margin-top: 50px;
             margin-bottom: 50px;
         }
@@ -736,7 +737,7 @@ justify-content: center;
 
 
 
-*/
+
 
 
 
